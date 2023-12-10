@@ -4,15 +4,15 @@ Este é um repositório para os códigos utilizados para implementação dos mé
 
 ### Dados Gerais
 
--**Título:** Detecção de Fraudes em Licitações Públicas Através da Identificação de Anomalias nos Valores Cobrados e da Análise de Redes Complexas Formadas por Interações de Compra
--**Universidade:** Universidade Tecnológica Federal do Paraná (UTFPR)
--**Campus:** Curitiba
--**Curso:** Bacharelado em Sistemas de Informação
--**Autores:** Breno Moura de Abreu; Thomaz Hugo Suzuki Pereira
--**Orientação:** Prof. Dr. Luiz Celso Gomes Jr.
--**Banca Avaliadora:** Prof. Dr. Luiz Celso Gomes Jr.; Prof. Dr. João Alberto Fabro; Profa. Dra. Leyza Baldo Dorini
--**Data da Defesa:** 05 de Dezembro de 2023
--**Contato:** breno2601@gmail.com; thomaz.szk@gmail.com
+- **Título:** Detecção de Fraudes em Licitações Públicas Através da Identificação de Anomalias nos Valores Cobrados e da Análise de Redes Complexas Formadas por Interações de Compra
+- **Universidade:** Universidade Tecnológica Federal do Paraná (UTFPR)
+- **Campus:** Curitiba
+- **Curso:** Bacharelado em Sistemas de Informação
+- **Autores:** Breno Moura de Abreu; Thomaz Hugo Suzuki Pereira
+- **Orientação:** Prof. Dr. Luiz Celso Gomes Jr.
+- **Banca Avaliadora:** Prof. Dr. Luiz Celso Gomes Jr.; Prof. Dr. João Alberto Fabro; Profa. Dra. Leyza Baldo Dorini
+- **Data da Defesa:** 05 de Dezembro de 2023
+- **Contato:** breno2601@gmail.com; thomaz.szk@gmail.com
 
 ### Resumo
 
